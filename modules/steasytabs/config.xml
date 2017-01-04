@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>steasytabs</name>
+	<displayName><![CDATA[Product Extra Tabs]]></displayName>
+	<version><![CDATA[1.1.9]]></version>
+	<description><![CDATA[Through the module, you can add as many tabs as you need. Its the perfect module, if you have to add mass additional information about your products, shipment methods or some other information.]]></description>
+	<author><![CDATA[SUNNYTOO.COM]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

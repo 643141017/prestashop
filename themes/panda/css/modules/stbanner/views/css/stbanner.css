@@ -1,0 +1,63 @@
+.banner_col {
+  padding-left: 10px;
+  padding-right: 10px; }
+  .banner_col.banner_b .st_banner_block {
+    margin-bottom: 20px; }
+
+.st_banner_row.row, .st_banner_row .row {
+  margin-left: -10px;
+  margin-right: -10px; }
+
+.banner_box {
+  position: relative;
+  overflow: hidden;
+  text-align: center; }
+  .banner_box .banner_image_box {
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; }
+  .banner_box .banner_scaffold {
+    display: table;
+    width: 100%;
+    vertical-align: middle;
+    position: relative;
+    z-index: 2; }
+    .banner_box .banner_scaffold .text_td {
+      display: table-cell;
+      width: 100%;
+      height: 100%;
+      vertical-align: middle;
+      padding: 20px 16px; }
+      .banner_box .banner_scaffold .text_td.banner_text_top {
+        vertical-align: top; }
+      .banner_box .banner_scaffold .text_td.banner_text_bottom {
+        vertical-align: bottom; }
+
+.st_banner_block {
+  display: block;
+  overflow: hidden;
+  position: relative; }
+  .st_banner_block .st_banner_image {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; }
+  .st_banner_block .text_table_wrap {
+    z-index: 3; }
+
+.st_banner_8 .banner_box_0 .banner_scaffold {
+  height: 420px; }
+.st_banner_8 .banner_box_1 .banner_scaffold, .st_banner_8 .banner_box_2 .banner_scaffold, .st_banner_8 .banner_box_3 .banner_scaffold {
+  height: 200px; }

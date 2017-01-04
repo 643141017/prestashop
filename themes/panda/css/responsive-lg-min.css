@@ -1,0 +1,13 @@
+@media only screen and (min-width: 1200px) and (max-width: 1439px) {
+  ul.product_list.grid > li.first-item-of-desktop-line {
+    clear: both; }
+  ul.product_list.grid > li.first-desktop-line {
+    border-top: none; }
+
+  .subcate_grid_view > li.first-item-of-desktop-line, .pro_itemlist > li.first-item-of-desktop-line, .blog_row_list > li.first-item-of-desktop-line, .blog_list_grid > li.first-item-of-desktop-line {
+    clear: both; }
+
+  .owl-carousel-banner.carousel_banner_nbr_2 .st_owl_carousel_block {
+    margin-bottom: 30px; }
+  .owl-carousel-banner.carousel_banner_nbr_3 .st_owl_carousel_block {
+    margin-bottom: 20px; } }

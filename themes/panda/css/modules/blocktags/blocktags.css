@@ -1,0 +1,14 @@
+.tags_block .block_content {
+  overflow: hidden;
+  text-align: justify; }
+  .tags_block .block_content a {
+    display: inline-block;
+    line-height: 16px;
+    padding: 2px 6px 3px 6px;
+    border: 1px solid #f2f2f2;
+    float: left;
+    margin: 0 6px 6px 0; }
+    .tags_block .block_content a:hover {
+      background: #444444;
+      color: white;
+      border-color: #444444; }
